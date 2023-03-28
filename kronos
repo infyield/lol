@@ -1,6 +1,6 @@
 -- VxlidDev
 -- lmao
-
+print('test')
 mas = game.Players.LocalPlayer.PlayerGui;
 ScreenGui0 = Instance.new("ScreenGui")
 Frame1 = Instance.new("Frame")
